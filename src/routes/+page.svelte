@@ -1,4 +1,4 @@
-<main class="bg-[#0e0b0b] min-h-screen p-8 md:p-20 text-white text-2xl leading-tight md:text-5xl md:leading-15">
+<main class="bg-[#0e0b0b] min-h-screen p-8 md:p-15 text-white text-2xl leading-tight md:text-5xl md:leading-13">
 	<p>good morning!</p>
 	<p>and in case i dont see ya,</p>
 	<p>good afternoon, good evening and good night!</p>
